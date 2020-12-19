@@ -2,7 +2,7 @@
 
 Bu admin panelini kurabilmek için öncelikle portfolyo temasını kurmanız lazımdır. [Portfolyo](https://github.com/omerfarukbicer0446/portfolio) reposu
 
-#### Kurulum
+#### Kurulum | [Youtube Videosu](https://youtu.be/meklgQ91Ne0)
 
 1. Dosyaları indirin
 2. İstediğiniz yere atın
