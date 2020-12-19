@@ -27,7 +27,6 @@
   <meta charset="utf-8">
   <title>Giriş Sayfası</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="Bu site Ömer Faruk Biçer tarafından Ömer Kaya'ya yapılmıştır." name="description">
   <meta content="Ömer Faruk Biçer" name="author">
   <link href="assets\bootstrap\css\bootstrap.css" rel="stylesheet">
   <link href="assets\font-awesome\css\font-awesome.css" rel="stylesheet">
@@ -41,7 +40,7 @@
   <div class="login-header">
       <!-- BEGIN LOGO -->
       <div id="logo" class="center" style="justify-content: center;align-items: center;text-align: center;">
-          <span style="font-size:30px;color:#ffffff;">Okul</span>
+          <span style="font-size:30px;color:#ffffff;">Admin</span>
       </div>
       <!-- END LOGO -->
   </div>
