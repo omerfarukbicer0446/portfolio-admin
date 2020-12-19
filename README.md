@@ -1,3 +1,3 @@
-# portfolio-admin
+# www.omerfarukbicer.com
 
-kurulumu ekliyeceğim sabredin :)
+Bu admin panelini kurabilmek için poertfolio scriptini kurmanız lazım dır bunu belirtmek isterim.
